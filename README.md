@@ -1,4 +1,7 @@
-# api documentation for  [hypernal (v0.3.0)](https://github.com/thlorenz/hypernal)  [![npm package](https://img.shields.io/npm/v/npmdoc-hypernal.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hypernal) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hypernal.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hypernal)
+# npmdoc-hypernal
+
+#### api documentation for  [hypernal (v0.3.0)](https://github.com/thlorenz/hypernal)  [![npm package](https://img.shields.io/npm/v/npmdoc-hypernal.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hypernal) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hypernal.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hypernal)
+
 #### Renders terminal output as html to simplify reusing server side modules in the browser.
 
 [![NPM](https://nodei.co/npm/hypernal.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hypernal)
@@ -67,7 +70,8 @@
         "demo": "node example/build && npm install opener && opener example/index.html",
         "test": "echo 'no tests yet :('"
     },
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 
